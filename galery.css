@@ -18,11 +18,8 @@ background-image: linear-gradient(blue,green);
 }
 .player{
     text-align: center;
-
-
     font-size: 35px;
-
-color:red;
+    color:red;
     margin-bottom:10%;
     margin-top:5%;
 }
