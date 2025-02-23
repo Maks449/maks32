@@ -17,8 +17,10 @@ background-image: linear-gradient(blue,green);
 
 }
 .player{
-
     font-size: 35px;
     color:red;
-
+}
+p{
+    width:300px;
+     color:pink;
 }
