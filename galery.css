@@ -7,9 +7,13 @@ img {
     justify-content: space-around;
 }
  body{
+      margin: 0;
+    font-family: "Oswald",sans-serif;
+    font: 16px;
 background-image: linear-gradient(blue,green);
+ color:white;
   text-align: center;
-    margin-bottom: 1%;
+
 }
 p{
      text-align: center;
