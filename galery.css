@@ -5,6 +5,7 @@ img {
     justify-content: center;
     width: 300px;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
  body{
       margin: 0;
