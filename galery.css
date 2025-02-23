@@ -15,8 +15,13 @@ background-image: linear-gradient(blue,green);
   text-align: center;
 
 }
-p{
-     text-align: center;
-  height: 70px;
-    background-image: linear-gradient(pink,yellow);
+.player{
+    text-align: center;
+    width: 30%;
+
+    font-size: 35px;
+    padding:2%;
+    background-image: linear-gradient(  rgb(226, 15, 191) ,rgb(217, 255, 0));
+    margin-bottom:10%;
+    margin-top:5%;
 }
